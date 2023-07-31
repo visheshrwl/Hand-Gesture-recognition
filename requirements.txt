@@ -1,0 +1,9 @@
+# Create a virtual environment (optional but recommended)
+# python -m venv myenv
+# source myenv/bin/activate  # On Windows, use "myenv\Scripts\activate"
+
+# Install the required packages from the requirements.txt file
+# pip install -r requirements.txt
+opencv-python
+mediapipe
+pyautogui
